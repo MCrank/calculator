@@ -1,6 +1,12 @@
 body {
-  background-color: tomato;
+  background-color: black;
 }
 
-.btn {
+#result {
+  font-size: 4rem;
+}
+
+button {
+  width: 4rem;
+  height: 4rem;
 }
